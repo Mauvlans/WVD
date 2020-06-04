@@ -1,11 +1,9 @@
 Click the button below to deploy:
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FPeterR-msft%2FM365WVDWS%2Fmaster%2FCreate%20and%20provision%20WVD%20host%20pool%2FmainTemplate.json" target="_blank">
+<a href="https://github.com/Mauvlans/WVD/blob/master/WVD-Spring-HostPool-Deploy-NoLink/WVD-Spring-HostPool-Deploy-NoLink.json" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
-<a href="http://armviz.io/#/?load=https%3A%2F%2Fraw.githubusercontent.com%2FPeterR-msft%2FM365WVDWS%2Fmaster%2FCreate%20and%20provision%20WVD%20host%20pool%2FmainTemplate.json" target="_blank">
-    <img src="http://armviz.io/visualizebutton.png"/>
-</a>
+
 
 # Create and provision new Windows Virtual Desktop hostpool
 
